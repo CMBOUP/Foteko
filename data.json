@@ -559,6 +559,15 @@
       "notes": "",
       "createdAt": "2026-07-11T00:54:58.927Z",
       "updatedAt": "2026-07-11T00:54:58.928Z"
+    },
+    {
+      "id": "cli_khl686i9v",
+      "name": "aziz",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T01:03:51.857Z",
+      "updatedAt": "2026-07-11T01:03:51.857Z"
     }
   ],
   "expenses": [],
@@ -656,5 +665,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T01:02:31.459Z"
+  "updatedAt": "2026-07-11T01:03:51.857Z"
 }
