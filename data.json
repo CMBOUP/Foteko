@@ -913,6 +913,15 @@
       "notes": "",
       "createdAt": "2026-07-11T12:21:01.624Z",
       "updatedAt": "2026-07-11T12:21:01.624Z"
+    },
+    {
+      "id": "cli_vud1s6l3y",
+      "name": "Ametth Diouf",
+      "phone": "775120195",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T12:29:59.003Z",
+      "updatedAt": "2026-07-11T12:29:59.003Z"
     }
   ],
   "expenses": [],
@@ -1010,5 +1019,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:22:29.200Z"
+  "updatedAt": "2026-07-11T12:29:59.003Z"
 }
