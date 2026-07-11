@@ -1541,6 +1541,15 @@
       "notes": "",
       "createdAt": "2026-07-11T15:28:15.185Z",
       "updatedAt": "2026-07-11T15:28:15.185Z"
+    },
+    {
+      "id": "cli_xqkgw93h3",
+      "name": "inconnu",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T19:17:46.912Z",
+      "updatedAt": "2026-07-11T19:17:46.913Z"
     }
   ],
   "expenses": [
@@ -1656,5 +1665,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T18:23:40.475Z"
+  "updatedAt": "2026-07-11T19:17:46.913Z"
 }
