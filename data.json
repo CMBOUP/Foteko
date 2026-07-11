@@ -820,6 +820,15 @@
       "notes": "",
       "createdAt": "2026-07-11T12:00:17.439Z",
       "updatedAt": "2026-07-11T12:00:17.439Z"
+    },
+    {
+      "id": "cli_6q75t1n6y",
+      "name": "eliza",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T12:18:01.337Z",
+      "updatedAt": "2026-07-11T12:18:01.337Z"
     }
   ],
   "expenses": [],
@@ -917,5 +926,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:13:30.174Z"
+  "updatedAt": "2026-07-11T12:18:01.337Z"
 }
