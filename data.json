@@ -1018,6 +1018,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T13:54:00.813Z"
+    },
+    {
+      "id": "T0047",
+      "clientName": "mère rama",
+      "clientPhone": "707528905",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 8.4,
+          "unit": "kg"
+        }
+      ],
+      "total": 2520,
+      "paid": 2500,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-11T13:57:42.030Z",
+      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T13:57:42.030Z"
     }
   ],
   "clients": [
@@ -1510,5 +1532,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:54:00.813Z"
+  "updatedAt": "2026-07-11T13:57:42.030Z"
 }
