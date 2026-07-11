@@ -382,6 +382,15 @@
       "notes": "",
       "createdAt": "2026-07-11T00:39:57.275Z",
       "updatedAt": "2026-07-11T00:39:57.275Z"
+    },
+    {
+      "id": "cli_z77lej8jl",
+      "name": "cheikh",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T00:39:59.537Z",
+      "updatedAt": "2026-07-11T00:39:59.537Z"
     }
   ],
   "expenses": [],
@@ -479,5 +488,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T00:39:57.275Z"
+  "updatedAt": "2026-07-11T00:39:59.537Z"
 }
