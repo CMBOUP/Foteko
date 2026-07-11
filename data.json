@@ -652,6 +652,15 @@
       "notes": "",
       "createdAt": "2026-07-11T01:11:21.842Z",
       "updatedAt": "2026-07-11T01:11:21.842Z"
+    },
+    {
+      "id": "cli_p5j4v3bl1",
+      "name": "maram",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T11:38:47.195Z",
+      "updatedAt": "2026-07-11T11:38:47.195Z"
     }
   ],
   "expenses": [],
@@ -749,5 +758,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T11:34:31.522Z"
+  "updatedAt": "2026-07-11T11:38:47.195Z"
 }
