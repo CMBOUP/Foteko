@@ -590,6 +590,15 @@
       "notes": "",
       "createdAt": "2026-07-11T01:03:51.857Z",
       "updatedAt": "2026-07-11T01:03:51.857Z"
+    },
+    {
+      "id": "cli_jc4jeb4v6",
+      "name": "mère rama",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T01:08:44.775Z",
+      "updatedAt": "2026-07-11T01:08:44.775Z"
     }
   ],
   "expenses": [],
@@ -687,5 +696,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T01:05:03.859Z"
+  "updatedAt": "2026-07-11T01:08:44.775Z"
 }
