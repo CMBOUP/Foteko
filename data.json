@@ -710,6 +710,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T12:40:06.790Z"
+    },
+    {
+      "id": "T0033",
+      "clientName": "ndèye",
+      "clientPhone": "707528005",
+      "items": [
+        {
+          "id": "svc_habit_special",
+          "name": "Habit spécial",
+          "price": 2000,
+          "qty": 1,
+          "unit": "pièce"
+        }
+      ],
+      "total": 2000,
+      "paid": 2000,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-11T12:45:12.047Z",
+      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T12:45:12.047Z"
     }
   ],
   "clients": [
@@ -1094,5 +1116,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:40:06.790Z"
+  "updatedAt": "2026-07-11T12:45:12.047Z"
 }
