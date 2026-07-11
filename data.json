@@ -1015,9 +1015,9 @@
       "paymentMethod": "Espèces",
       "status": "retiré",
       "createdAt": "2026-07-11T13:53:22.907Z",
-      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "pickupDate": "2026-07-11T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T13:54:00.813Z"
+      "updatedAt": "2026-07-11T20:11:28.299Z"
     },
     {
       "id": "T0047",
@@ -1726,5 +1726,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T20:10:28.506Z"
+  "updatedAt": "2026-07-11T20:11:28.299Z"
 }
