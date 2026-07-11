@@ -240,14 +240,14 @@
           "unit": "kg"
         }
       ],
-      "total": 11004,
+      "total": 11000,
       "paid": 11000,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "en_cours",
       "createdAt": "2026-07-10T22:28:04.718Z",
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-10T23:51:30.576Z"
+      "updatedAt": "2026-07-11T00:28:45.864Z"
     }
   ],
   "clients": [
@@ -470,5 +470,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T23:51:44.514Z"
+  "updatedAt": "2026-07-11T00:28:45.864Z"
 }
