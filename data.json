@@ -1120,14 +1120,14 @@
           "unit": "pièce"
         }
       ],
-      "total": 2500,
-      "paid": 2500,
+      "total": 0,
+      "paid": 0,
       "paymentMethod": "Espèces",
       "status": "annulé",
       "createdAt": "2026-07-11T18:16:20.506Z",
       "pickupDate": "2026-07-11T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T18:20:21.589Z"
+      "updatedAt": "2026-07-11T18:21:11.273Z"
     }
   ],
   "clients": [
@@ -1656,5 +1656,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T18:20:41.260Z"
+  "updatedAt": "2026-07-11T18:21:11.273Z"
 }
