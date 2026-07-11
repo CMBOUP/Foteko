@@ -1438,7 +1438,16 @@
     }
   ],
   "expenses": [],
-  "savings": [],
+  "savings": [
+    {
+      "id": "sav_y94qe1bjn",
+      "justification": "Epargne",
+      "amount": 38000,
+      "date": "2026-07-11T14:07:27.003Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T14:07:27.003Z"
+    }
+  ],
   "services": [
     {
       "id": "svc_lavage_simple",
@@ -1532,5 +1541,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T14:05:07.975Z"
+  "updatedAt": "2026-07-11T14:07:27.003Z"
 }
