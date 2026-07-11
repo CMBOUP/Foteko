@@ -1103,6 +1103,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:02:20.575Z",
       "updatedAt": "2026-07-11T13:02:20.576Z"
+    },
+    {
+      "id": "cli_x7mozncmr",
+      "name": "mai",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:06:49.935Z",
+      "updatedAt": "2026-07-11T13:06:49.935Z"
     }
   ],
   "expenses": [],
@@ -1200,5 +1209,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:03:11.860Z"
+  "updatedAt": "2026-07-11T13:06:49.935Z"
 }
