@@ -1147,9 +1147,9 @@
       "paymentMethod": "Espèces",
       "status": "annulé",
       "createdAt": "2026-07-11T19:19:07.800Z",
-      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "pickupDate": "2026-07-11T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T19:27:27.440Z"
+      "updatedAt": "2026-07-11T20:07:20.969Z"
     },
     {
       "id": "T0053",
@@ -1726,5 +1726,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T20:06:42.995Z"
+  "updatedAt": "2026-07-11T20:07:20.969Z"
 }
