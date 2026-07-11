@@ -1236,6 +1236,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:15:45.242Z",
       "updatedAt": "2026-07-11T13:15:45.242Z"
+    },
+    {
+      "id": "cli_ws43vs0c4",
+      "name": "mohamed",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:19:27.007Z",
+      "updatedAt": "2026-07-11T13:19:27.007Z"
     }
   ],
   "expenses": [],
@@ -1333,5 +1342,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:17:10.905Z"
+  "updatedAt": "2026-07-11T13:19:27.007Z"
 }
