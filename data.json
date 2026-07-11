@@ -1134,6 +1134,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:06:49.935Z",
       "updatedAt": "2026-07-11T13:06:49.935Z"
+    },
+    {
+      "id": "cli_ttz3fonoj",
+      "name": "rennette",
+      "phone": "772663087",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:10:22.782Z",
+      "updatedAt": "2026-07-11T13:10:22.782Z"
     }
   ],
   "expenses": [],
@@ -1231,5 +1240,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:08:58.754Z"
+  "updatedAt": "2026-07-11T13:10:22.782Z"
 }
