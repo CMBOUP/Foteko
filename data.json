@@ -732,6 +732,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T12:50:12.208Z"
+    },
+    {
+      "id": "T0034",
+      "clientName": "adji kiné",
+      "clientPhone": "705535300",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 12.1,
+          "unit": "kg"
+        }
+      ],
+      "total": 3630,
+      "paid": 3650,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-11T12:53:14.204Z",
+      "pickupDate": "2026-07-08T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T12:53:14.204Z"
     }
   ],
   "clients": [
@@ -1125,5 +1147,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:52:26.735Z"
+  "updatedAt": "2026-07-11T12:53:14.204Z"
 }
