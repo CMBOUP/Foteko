@@ -974,6 +974,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T13:45:34.868Z"
+    },
+    {
+      "id": "T0045",
+      "clientName": "talla dia",
+      "clientPhone": "778721913",
+      "items": [
+        {
+          "id": "svc_lavage_repassage",
+          "name": "Lavage & repassage",
+          "price": 600,
+          "qty": 9,
+          "unit": "kg"
+        }
+      ],
+      "total": 5400,
+      "paid": 5400,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-11T13:48:58.889Z",
+      "pickupDate": "2026-07-10T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T13:48:58.889Z"
     }
   ],
   "clients": [
@@ -1457,5 +1479,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:48:31.788Z"
+  "updatedAt": "2026-07-11T13:48:58.889Z"
 }
