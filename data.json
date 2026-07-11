@@ -444,6 +444,15 @@
       "notes": "",
       "createdAt": "2026-07-11T00:47:16.712Z",
       "updatedAt": "2026-07-11T00:47:16.712Z"
+    },
+    {
+      "id": "cli_cfiv6gc7o",
+      "name": "baye",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T00:50:17.438Z",
+      "updatedAt": "2026-07-11T00:50:17.438Z"
     }
   ],
   "expenses": [],
@@ -541,5 +550,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T00:48:02.922Z"
+  "updatedAt": "2026-07-11T00:50:17.438Z"
 }
