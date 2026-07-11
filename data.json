@@ -622,6 +622,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T12:18:58.439Z"
+    },
+    {
+      "id": "T0029",
+      "clientName": "tapha",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 8.33,
+          "unit": "kg"
+        }
+      ],
+      "total": 2499,
+      "paid": 2500,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-11T12:22:29.200Z",
+      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T12:22:29.200Z"
     }
   ],
   "clients": [
@@ -988,5 +1010,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:21:01.624Z"
+  "updatedAt": "2026-07-11T12:22:29.200Z"
 }
