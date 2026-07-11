@@ -1245,6 +1245,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:19:27.007Z",
       "updatedAt": "2026-07-11T13:19:27.007Z"
+    },
+    {
+      "id": "cli_jad0s51cl",
+      "name": "mohamed",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:19:28.321Z",
+      "updatedAt": "2026-07-11T13:19:28.321Z"
     }
   ],
   "expenses": [],
@@ -1342,5 +1351,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:19:27.007Z"
+  "updatedAt": "2026-07-11T13:19:28.321Z"
 }
