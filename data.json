@@ -1106,6 +1106,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T18:15:55.687Z"
+    },
+    {
+      "id": "T0051",
+      "clientName": "penda",
+      "clientPhone": "707528905",
+      "items": [
+        {
+          "id": "svc_couette",
+          "name": "Couette",
+          "price": 2500,
+          "qty": 1,
+          "unit": "pièce"
+        }
+      ],
+      "total": 2500,
+      "paid": 2500,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-11T18:16:20.506Z",
+      "pickupDate": "2026-07-11T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T18:16:20.506Z"
     }
   ],
   "clients": [
@@ -1634,5 +1656,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T18:15:55.687Z"
+  "updatedAt": "2026-07-11T18:16:20.506Z"
 }
