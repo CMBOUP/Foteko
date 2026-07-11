@@ -1437,7 +1437,16 @@
       "updatedAt": "2026-07-11T13:53:04.274Z"
     }
   ],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "exp_3elmi4luc",
+      "label": "Diverses dépenses",
+      "amount": 222150,
+      "category": "Fournitures",
+      "date": "2026-07-11T14:09:31.171Z",
+      "updatedAt": "2026-07-11T14:09:31.171Z"
+    }
+  ],
   "savings": [
     {
       "id": "sav_y94qe1bjn",
@@ -1541,5 +1550,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T14:07:27.003Z"
+  "updatedAt": "2026-07-11T14:09:31.171Z"
 }
