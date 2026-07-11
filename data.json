@@ -1435,6 +1435,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:53:04.274Z",
       "updatedAt": "2026-07-11T13:53:04.274Z"
+    },
+    {
+      "id": "cli_px99tc6s7",
+      "name": "client 1",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T15:28:12.220Z",
+      "updatedAt": "2026-07-11T15:28:12.221Z"
     }
   ],
   "expenses": [
@@ -1550,5 +1559,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T14:09:31.171Z"
+  "updatedAt": "2026-07-11T15:28:12.221Z"
 }
