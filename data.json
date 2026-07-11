@@ -736,6 +736,15 @@
       "notes": "",
       "createdAt": "2026-07-11T11:46:49.578Z",
       "updatedAt": "2026-07-11T11:46:49.578Z"
+    },
+    {
+      "id": "cli_c5h6909cp",
+      "name": "maman",
+      "phone": "7835618615",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T11:56:09.216Z",
+      "updatedAt": "2026-07-11T11:56:09.216Z"
     }
   ],
   "expenses": [],
@@ -833,5 +842,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T11:53:21.209Z"
+  "updatedAt": "2026-07-11T11:56:09.216Z"
 }
