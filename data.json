@@ -767,6 +767,15 @@
       "notes": "",
       "createdAt": "2026-07-11T11:56:09.216Z",
       "updatedAt": "2026-07-11T11:56:09.216Z"
+    },
+    {
+      "id": "cli_ozjwdeusp",
+      "name": "samba",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T12:00:17.439Z",
+      "updatedAt": "2026-07-11T12:00:17.439Z"
     }
   ],
   "expenses": [],
@@ -864,5 +873,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T11:59:10.665Z"
+  "updatedAt": "2026-07-11T12:00:17.439Z"
 }
