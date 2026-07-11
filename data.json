@@ -1351,6 +1351,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:45:29.391Z",
       "updatedAt": "2026-07-11T13:45:29.391Z"
+    },
+    {
+      "id": "cli_nk18wkdze",
+      "name": "talla dia",
+      "phone": "778721913",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:48:31.788Z",
+      "updatedAt": "2026-07-11T13:48:31.788Z"
     }
   ],
   "expenses": [],
@@ -1448,5 +1457,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:45:34.868Z"
+  "updatedAt": "2026-07-11T13:48:31.788Z"
 }
