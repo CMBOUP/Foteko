@@ -1019,6 +1019,15 @@
       "notes": "",
       "createdAt": "2026-07-11T12:39:01.472Z",
       "updatedAt": "2026-07-11T12:39:01.472Z"
+    },
+    {
+      "id": "cli_kv3zaqs88",
+      "name": "adji kiné",
+      "phone": "705535300",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T12:52:26.735Z",
+      "updatedAt": "2026-07-11T12:52:26.735Z"
     }
   ],
   "expenses": [],
@@ -1116,5 +1125,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:50:12.208Z"
+  "updatedAt": "2026-07-11T12:52:26.735Z"
 }
