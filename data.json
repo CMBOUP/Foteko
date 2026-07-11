@@ -487,9 +487,9 @@
       "paymentMethod": "Espèces",
       "status": "en_cours",
       "createdAt": "2026-07-11T11:40:39.230Z",
-      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "pickupDate": "2026-07-11T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T14:05:07.975Z"
+      "updatedAt": "2026-07-11T20:08:24.266Z"
     },
     {
       "id": "T0023",
@@ -1726,5 +1726,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T20:07:50.804Z"
+  "updatedAt": "2026-07-11T20:08:24.266Z"
 }
