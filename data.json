@@ -485,11 +485,11 @@
       "total": 2300,
       "paid": 2000,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "en_cours",
       "createdAt": "2026-07-11T11:40:39.230Z",
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T11:41:25.324Z"
+      "updatedAt": "2026-07-11T11:41:40.518Z"
     }
   ],
   "clients": [
@@ -802,5 +802,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T11:41:25.325Z"
+  "updatedAt": "2026-07-11T11:41:40.518Z"
 }
