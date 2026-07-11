@@ -966,6 +966,15 @@
       "notes": "",
       "createdAt": "2026-07-11T12:29:59.003Z",
       "updatedAt": "2026-07-11T12:29:59.003Z"
+    },
+    {
+      "id": "cli_5jzorr9z6",
+      "name": "fatima",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T12:39:01.472Z",
+      "updatedAt": "2026-07-11T12:39:01.472Z"
     }
   ],
   "expenses": [],
@@ -1063,5 +1072,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:35:08.470Z"
+  "updatedAt": "2026-07-11T12:39:01.472Z"
 }
