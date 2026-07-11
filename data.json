@@ -506,6 +506,15 @@
       "notes": "",
       "createdAt": "2026-07-11T00:54:53.579Z",
       "updatedAt": "2026-07-11T00:54:53.579Z"
+    },
+    {
+      "id": "cli_o7t9fjgvg",
+      "name": "client",
+      "phone": "774273815",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T00:54:58.927Z",
+      "updatedAt": "2026-07-11T00:54:58.928Z"
     }
   ],
   "expenses": [],
@@ -603,5 +612,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T00:54:53.579Z"
+  "updatedAt": "2026-07-11T00:54:58.928Z"
 }
