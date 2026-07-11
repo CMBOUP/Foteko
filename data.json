@@ -1165,6 +1165,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:10:22.782Z",
       "updatedAt": "2026-07-11T13:10:22.782Z"
+    },
+    {
+      "id": "cli_f7f3vxhyl",
+      "name": "ndèye amy",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:14:16.307Z",
+      "updatedAt": "2026-07-11T13:14:16.307Z"
     }
   ],
   "expenses": [],
@@ -1262,5 +1271,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:10:37.754Z"
+  "updatedAt": "2026-07-11T13:14:16.307Z"
 }
