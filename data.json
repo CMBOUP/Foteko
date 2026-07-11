@@ -873,6 +873,15 @@
       "notes": "",
       "createdAt": "2026-07-11T12:18:01.337Z",
       "updatedAt": "2026-07-11T12:18:01.337Z"
+    },
+    {
+      "id": "cli_rdy7hd7ry",
+      "name": "tapha",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T12:20:59.167Z",
+      "updatedAt": "2026-07-11T12:20:59.167Z"
     }
   ],
   "expenses": [],
@@ -970,5 +979,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:18:58.439Z"
+  "updatedAt": "2026-07-11T12:20:59.167Z"
 }
