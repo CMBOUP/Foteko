@@ -705,6 +705,15 @@
       "notes": "",
       "createdAt": "2026-07-11T11:38:47.195Z",
       "updatedAt": "2026-07-11T11:38:47.195Z"
+    },
+    {
+      "id": "cli_5d4ksln9x",
+      "name": "Fatou",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T11:46:49.578Z",
+      "updatedAt": "2026-07-11T11:46:49.578Z"
     }
   ],
   "expenses": [],
@@ -802,5 +811,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T11:42:01.723Z"
+  "updatedAt": "2026-07-11T11:46:49.578Z"
 }
