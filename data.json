@@ -1142,14 +1142,14 @@
           "unit": "kg"
         }
       ],
-      "total": 2050,
-      "paid": 2050,
+      "total": 0,
+      "paid": 0,
       "paymentMethod": "Espèces",
       "status": "prêt",
       "createdAt": "2026-07-11T19:19:07.800Z",
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T19:20:02.120Z"
+      "updatedAt": "2026-07-11T19:23:29.636Z"
     }
   ],
   "clients": [
@@ -1687,5 +1687,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T19:22:42.250Z"
+  "updatedAt": "2026-07-11T19:23:29.636Z"
 }
