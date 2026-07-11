@@ -724,14 +724,14 @@
           "unit": "pièce"
         }
       ],
-      "total": 2000,
+      "total": 0,
       "paid": 2000,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "prêt",
       "createdAt": "2026-07-11T12:45:12.047Z",
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T12:45:12.047Z"
+      "updatedAt": "2026-07-11T12:50:12.208Z"
     }
   ],
   "clients": [
@@ -1116,5 +1116,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T12:45:12.047Z"
+  "updatedAt": "2026-07-11T12:50:12.208Z"
 }
