@@ -1572,6 +1572,15 @@
       "notes": "",
       "createdAt": "2026-07-11T19:17:46.912Z",
       "updatedAt": "2026-07-11T19:17:46.913Z"
+    },
+    {
+      "id": "cli_q98c1myut",
+      "name": "satou faye",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T20:06:26.251Z",
+      "updatedAt": "2026-07-11T20:06:26.252Z"
     }
   ],
   "expenses": [
@@ -1695,5 +1704,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T20:06:06.183Z"
+  "updatedAt": "2026-07-11T20:06:26.252Z"
 }
