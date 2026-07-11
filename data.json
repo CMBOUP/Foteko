@@ -621,6 +621,15 @@
       "notes": "",
       "createdAt": "2026-07-11T01:08:44.775Z",
       "updatedAt": "2026-07-11T01:08:44.775Z"
+    },
+    {
+      "id": "cli_l0lbcfq3h",
+      "name": "ndèye",
+      "phone": "707528005",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T01:11:21.842Z",
+      "updatedAt": "2026-07-11T01:11:21.842Z"
     }
   ],
   "expenses": [],
@@ -718,5 +727,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T01:10:25.848Z"
+  "updatedAt": "2026-07-11T01:11:21.842Z"
 }
