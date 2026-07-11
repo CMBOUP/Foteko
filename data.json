@@ -1194,6 +1194,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T21:01:21.071Z"
+    },
+    {
+      "id": "T0055",
+      "clientName": "inconnu",
+      "clientPhone": "707528905",
+      "items": [
+        {
+          "id": "svc_lavage_sechage",
+          "name": "Lavage & séchage",
+          "price": 500,
+          "qty": 2.8,
+          "unit": "kg"
+        }
+      ],
+      "total": 1260,
+      "paid": 1400,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-11T21:27:46.918Z",
+      "pickupDate": "2026-07-11T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T21:27:46.918Z"
     }
   ],
   "clients": [
@@ -1748,5 +1770,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T21:01:39.145Z"
+  "updatedAt": "2026-07-11T21:27:46.918Z"
 }
