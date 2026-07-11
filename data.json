@@ -1150,6 +1150,28 @@
       "pickupDate": "2026-07-14T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-11T19:27:27.440Z"
+    },
+    {
+      "id": "T0053",
+      "clientName": "satou faye",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_repassage",
+          "name": "Lavage & repassage",
+          "price": 600,
+          "qty": 10.4,
+          "unit": "kg"
+        }
+      ],
+      "total": 6240,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-11T20:06:42.995Z",
+      "pickupDate": "2026-07-14T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-11T20:06:42.995Z"
     }
   ],
   "clients": [
@@ -1704,5 +1726,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T20:06:26.252Z"
+  "updatedAt": "2026-07-11T20:06:42.995Z"
 }
