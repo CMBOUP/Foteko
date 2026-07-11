@@ -1196,6 +1196,24 @@
       "notes": "",
       "createdAt": "2026-07-11T13:14:16.307Z",
       "updatedAt": "2026-07-11T13:14:16.307Z"
+    },
+    {
+      "id": "cli_gmwsnxdw9",
+      "name": "modou",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:15:42.298Z",
+      "updatedAt": "2026-07-11T13:15:42.298Z"
+    },
+    {
+      "id": "cli_hsm5876hv",
+      "name": "modou",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:15:45.242Z",
+      "updatedAt": "2026-07-11T13:15:45.242Z"
     }
   ],
   "expenses": [],
@@ -1293,5 +1311,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:14:28.104Z"
+  "updatedAt": "2026-07-11T13:15:45.242Z"
 }
