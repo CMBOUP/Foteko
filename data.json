@@ -1320,6 +1320,15 @@
       "notes": "",
       "createdAt": "2026-07-11T13:19:28.321Z",
       "updatedAt": "2026-07-11T13:19:28.321Z"
+    },
+    {
+      "id": "cli_98rgknth7",
+      "name": "falla",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-11T13:45:29.391Z",
+      "updatedAt": "2026-07-11T13:45:29.391Z"
     }
   ],
   "expenses": [],
@@ -1417,5 +1426,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T13:44:25.941Z"
+  "updatedAt": "2026-07-11T13:45:29.391Z"
 }
