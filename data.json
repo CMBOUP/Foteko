@@ -20,14 +20,14 @@
           "unit": "pièce"
         }
       ],
-      "total": 5500,
-      "paid": 1,
+      "total": 0,
+      "paid": 0,
       "paymentMethod": "Espèces",
       "status": "annulé",
       "createdAt": "2026-07-09T07:17:36.914Z",
-      "pickupDate": "2026-07-10T07:17:36.914Z",
+      "pickupDate": "2026-07-10T00:00:00.000Z",
       "cashier": "Fatou Diop",
-      "updatedAt": "2026-07-10T19:50:36.220Z"
+      "updatedAt": "2026-07-12T11:32:11.114Z"
     },
     {
       "id": "T0002",
@@ -1770,5 +1770,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-11T21:28:32.586Z"
+  "updatedAt": "2026-07-12T11:32:11.114Z"
 }
