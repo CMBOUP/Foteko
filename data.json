@@ -1238,6 +1238,28 @@
       "pickupDate": "2026-07-16T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-13T14:03:19.586Z"
+    },
+    {
+      "id": "T0057",
+      "clientName": "mama, médoune",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 6.3,
+          "unit": "kg"
+        }
+      ],
+      "total": 1701,
+      "paid": 1950,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-13T14:05:04.973Z",
+      "pickupDate": "2026-07-16T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-13T14:05:04.973Z"
     }
   ],
   "clients": [
@@ -1801,5 +1823,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T14:04:54.989Z"
+  "updatedAt": "2026-07-13T14:05:04.973Z"
 }
