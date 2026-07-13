@@ -1387,11 +1387,11 @@
       "total": 4500,
       "paid": 4500,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-07-13T21:26:55.454Z",
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-13T21:26:55.454Z"
+      "updatedAt": "2026-07-13T21:40:37.676Z"
     }
   ],
   "clients": [
@@ -1993,5 +1993,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T21:28:53.909Z"
+  "updatedAt": "2026-07-13T21:40:37.676Z"
 }
