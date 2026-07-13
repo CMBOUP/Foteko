@@ -1806,6 +1806,15 @@
       "notes": "",
       "createdAt": "2026-07-13T20:50:16.295Z",
       "updatedAt": "2026-07-13T20:50:16.295Z"
+    },
+    {
+      "id": "cli_sxazxsmvy",
+      "name": "awa lo",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-13T20:53:59.007Z",
+      "updatedAt": "2026-07-13T20:53:59.007Z"
     }
   ],
   "expenses": [
@@ -1932,5 +1941,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:52:38.265Z"
+  "updatedAt": "2026-07-13T20:53:59.007Z"
 }
