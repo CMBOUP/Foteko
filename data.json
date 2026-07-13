@@ -1753,6 +1753,15 @@
       "notes": "",
       "createdAt": "2026-07-13T20:45:51.387Z",
       "updatedAt": "2026-07-13T20:45:51.387Z"
+    },
+    {
+      "id": "cli_lgtfvy18t",
+      "name": "astou",
+      "phone": "771216509",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-13T20:50:16.295Z",
+      "updatedAt": "2026-07-13T20:50:16.295Z"
     }
   ],
   "expenses": [
@@ -1879,5 +1888,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:46:40.617Z"
+  "updatedAt": "2026-07-13T20:50:16.295Z"
 }
