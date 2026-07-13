@@ -1775,7 +1775,8 @@
       "role": "admin",
       "active": true,
       "passwordHash": "a36aef5a11c4073fbe60314fc9df530a9d5f986533594d1f5190742ff9e0e408",
-      "pin": "1234"
+      "pin": "2021",
+      "updatedAt": "2026-07-13T20:30:26.426Z"
     },
     {
       "id": "u_cash1",
@@ -1823,5 +1824,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T14:05:44.592Z"
+  "updatedAt": "2026-07-13T20:30:26.426Z"
 }
