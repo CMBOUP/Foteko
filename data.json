@@ -1722,6 +1722,15 @@
       "notes": "",
       "createdAt": "2026-07-13T14:04:54.989Z",
       "updatedAt": "2026-07-13T14:04:54.989Z"
+    },
+    {
+      "id": "cli_8nfdra40x",
+      "name": "fatou fall",
+      "phone": "776023563",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-13T20:45:51.387Z",
+      "updatedAt": "2026-07-13T20:45:51.387Z"
     }
   ],
   "expenses": [
@@ -1848,5 +1857,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:43:57.569Z"
+  "updatedAt": "2026-07-13T20:45:51.387Z"
 }
