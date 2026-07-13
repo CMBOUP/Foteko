@@ -1795,7 +1795,8 @@
       "role": "caissier",
       "active": true,
       "passwordHash": "de36452cce091ec558eb5b8ed8f393ea360fc83d0dbeb1fd27d7467b514d4b07",
-      "pin": "1111"
+      "pin": "4321",
+      "updatedAt": "2026-07-13T20:30:59.890Z"
     }
   ],
   "machines": [
@@ -1825,5 +1826,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:30:46.742Z"
+  "updatedAt": "2026-07-13T20:30:59.890Z"
 }
