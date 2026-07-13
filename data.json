@@ -1282,6 +1282,28 @@
       "pickupDate": "2026-07-16T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-13T20:43:57.569Z"
+    },
+    {
+      "id": "T0059",
+      "clientName": "fatou fall",
+      "clientPhone": "776023563",
+      "items": [
+        {
+          "id": "svc_lavage_sechage",
+          "name": "Lavage & séchage",
+          "price": 500,
+          "qty": 7.4,
+          "unit": "kg"
+        }
+      ],
+      "total": 3700,
+      "paid": 3700,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-13T20:46:40.617Z",
+      "pickupDate": "2026-07-16T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-13T20:46:40.617Z"
     }
   ],
   "clients": [
@@ -1857,5 +1879,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:45:51.387Z"
+  "updatedAt": "2026-07-13T20:46:40.617Z"
 }
