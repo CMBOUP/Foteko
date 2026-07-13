@@ -1230,14 +1230,14 @@
           "unit": "kg"
         }
       ],
-      "total": 2520,
+      "total": 2500,
       "paid": 1500,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "retiré",
       "createdAt": "2026-07-13T14:02:38.699Z",
       "pickupDate": "2026-07-16T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-13T14:02:38.700Z"
+      "updatedAt": "2026-07-13T14:03:19.586Z"
     }
   ],
   "clients": [
@@ -1792,5 +1792,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T14:02:38.700Z"
+  "updatedAt": "2026-07-13T14:03:19.586Z"
 }
