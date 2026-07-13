@@ -1345,9 +1345,9 @@
       "paymentMethod": "Espèces",
       "status": "en_attente",
       "createdAt": "2026-07-13T20:52:38.265Z",
-      "pickupDate": "2026-07-16T00:00:00.000Z",
+      "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-13T20:52:38.265Z"
+      "updatedAt": "2026-07-13T21:27:55.110Z"
     },
     {
       "id": "T0062",
@@ -1993,5 +1993,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T21:27:41.082Z"
+  "updatedAt": "2026-07-13T21:27:55.110Z"
 }
