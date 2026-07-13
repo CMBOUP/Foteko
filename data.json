@@ -1785,7 +1785,8 @@
       "role": "caissier",
       "active": true,
       "passwordHash": "24cfa06b89837e744f9d25630c18c1cd767d7be3b7d5059e0ca2b3e68658a474",
-      "pin": "0000"
+      "pin": "1234",
+      "updatedAt": "2026-07-13T20:30:46.742Z"
     },
     {
       "id": "u_cash2",
@@ -1824,5 +1825,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:30:26.426Z"
+  "updatedAt": "2026-07-13T20:30:46.742Z"
 }
