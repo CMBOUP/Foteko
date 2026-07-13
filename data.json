@@ -1231,13 +1231,13 @@
         }
       ],
       "total": 2500,
-      "paid": 1500,
+      "paid": 2500,
       "paymentMethod": "Espèces",
       "status": "retiré",
       "createdAt": "2026-07-13T14:02:38.699Z",
       "pickupDate": "2026-07-16T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-13T14:03:19.586Z"
+      "updatedAt": "2026-07-13T20:40:26.377Z"
     },
     {
       "id": "T0057",
@@ -1826,5 +1826,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-13T20:30:59.890Z"
+  "updatedAt": "2026-07-13T20:40:26.377Z"
 }
