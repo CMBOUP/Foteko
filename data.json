@@ -2243,6 +2243,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:39:10.901Z",
       "updatedAt": "2026-07-16T19:39:10.901Z"
+    },
+    {
+      "id": "cli_flhy1pjf5",
+      "name": "mané",
+      "phone": "773074515",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:41:58.542Z",
+      "updatedAt": "2026-07-16T19:41:58.542Z"
     }
   ],
   "expenses": [
@@ -2377,5 +2386,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:39:46.855Z"
+  "updatedAt": "2026-07-16T19:41:58.542Z"
 }
