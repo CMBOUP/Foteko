@@ -2305,6 +2305,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:44:51.717Z",
       "updatedAt": "2026-07-16T19:44:51.717Z"
+    },
+    {
+      "id": "cli_mwr1i7dk0",
+      "name": "marguerite",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:47:40.805Z",
+      "updatedAt": "2026-07-16T19:47:40.805Z"
     }
   ],
   "expenses": [
@@ -2439,5 +2448,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:46:15.496Z"
+  "updatedAt": "2026-07-16T19:47:40.806Z"
 }
