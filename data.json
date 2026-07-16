@@ -2075,6 +2075,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:23:52.319Z",
       "updatedAt": "2026-07-16T19:23:52.319Z"
+    },
+    {
+      "id": "cli_u6qfq1fbw",
+      "name": "papa",
+      "phone": "773730949",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:26:16.723Z",
+      "updatedAt": "2026-07-16T19:26:16.723Z"
     }
   ],
   "expenses": [
@@ -2209,5 +2218,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:24:05.935Z"
+  "updatedAt": "2026-07-16T19:26:16.723Z"
 }
