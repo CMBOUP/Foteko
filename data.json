@@ -2274,6 +2274,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:41:58.542Z",
       "updatedAt": "2026-07-16T19:41:58.542Z"
+    },
+    {
+      "id": "cli_lw1wdeuri",
+      "name": "yayou marie",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:44:51.717Z",
+      "updatedAt": "2026-07-16T19:44:51.717Z"
     }
   ],
   "expenses": [
@@ -2408,5 +2417,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:42:28.984Z"
+  "updatedAt": "2026-07-16T19:44:51.718Z"
 }
