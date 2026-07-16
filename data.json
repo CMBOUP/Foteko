@@ -2212,6 +2212,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:32:53.115Z",
       "updatedAt": "2026-07-16T19:32:53.115Z"
+    },
+    {
+      "id": "cli_jyq1t3exr",
+      "name": "ablaye",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:39:10.901Z",
+      "updatedAt": "2026-07-16T19:39:10.901Z"
     }
   ],
   "expenses": [
@@ -2346,5 +2355,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:37:55.017Z"
+  "updatedAt": "2026-07-16T19:39:10.901Z"
 }
