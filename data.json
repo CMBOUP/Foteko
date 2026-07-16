@@ -2362,6 +2362,14 @@
       "category": "Énergie",
       "date": "2026-07-13T20:57:07.353Z",
       "updatedAt": "2026-07-13T20:57:07.353Z"
+    },
+    {
+      "id": "exp_9ikhdtgpr",
+      "label": "Manoeuvre éléctricité et plomberie",
+      "amount": 12000,
+      "category": "Entretien",
+      "date": "2026-07-16T19:55:54.306Z",
+      "updatedAt": "2026-07-16T19:55:54.306Z"
     }
   ],
   "savings": [
@@ -2470,5 +2478,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:53:10.445Z"
+  "updatedAt": "2026-07-16T19:55:54.307Z"
 }
