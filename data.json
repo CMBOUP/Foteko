@@ -1524,6 +1524,28 @@
       "pickupDate": "2026-07-16T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-16T19:19:02.842Z"
+    },
+    {
+      "id": "T0070",
+      "clientName": "nigérienne",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_sechage",
+          "name": "Lavage & séchage",
+          "price": 500,
+          "qty": 10,
+          "unit": "kg"
+        }
+      ],
+      "total": 5000,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-16T19:23:11.422Z",
+      "pickupDate": "2026-07-16T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-16T19:23:11.422Z"
     }
   ],
   "clients": [
@@ -2134,5 +2156,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:20:22.626Z"
+  "updatedAt": "2026-07-16T19:23:11.422Z"
 }
