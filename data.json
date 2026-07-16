@@ -2128,6 +2128,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:26:16.723Z",
       "updatedAt": "2026-07-16T19:26:16.723Z"
+    },
+    {
+      "id": "cli_0f2hwmm8u",
+      "name": "ousmane",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:30:03.432Z",
+      "updatedAt": "2026-07-16T19:30:03.432Z"
     }
   ],
   "expenses": [
@@ -2262,5 +2271,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:27:59.427Z"
+  "updatedAt": "2026-07-16T19:30:03.432Z"
 }
