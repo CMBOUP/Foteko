@@ -1991,6 +1991,15 @@
       "notes": "",
       "createdAt": "2026-07-13T20:53:59.007Z",
       "updatedAt": "2026-07-13T20:53:59.007Z"
+    },
+    {
+      "id": "cli_e3lq6q46d",
+      "name": "nigérienne",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:20:22.626Z",
+      "updatedAt": "2026-07-16T19:20:22.626Z"
     }
   ],
   "expenses": [
@@ -2125,5 +2134,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:19:02.842Z"
+  "updatedAt": "2026-07-16T19:20:22.626Z"
 }
