@@ -1433,9 +1433,9 @@
       "paymentMethod": "Espèces",
       "status": "retiré",
       "createdAt": "2026-07-14T20:27:24.177Z",
-      "pickupDate": "2026-07-17T00:00:00.000Z",
+      "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-14T20:27:46.061Z"
+      "updatedAt": "2026-07-16T19:02:55.255Z"
     }
   ],
   "clients": [
@@ -2037,5 +2037,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:02:36.194Z"
+  "updatedAt": "2026-07-16T19:02:55.255Z"
 }
