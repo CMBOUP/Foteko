@@ -2370,6 +2370,14 @@
       "category": "Entretien",
       "date": "2026-07-16T19:55:54.306Z",
       "updatedAt": "2026-07-16T19:55:54.306Z"
+    },
+    {
+      "id": "exp_eorvt78ve",
+      "label": "Frais déplacement pompe",
+      "amount": 7600,
+      "category": "Fournitures",
+      "date": "2026-07-16T19:58:17.533Z",
+      "updatedAt": "2026-07-16T19:58:17.533Z"
     }
   ],
   "savings": [
@@ -2478,5 +2486,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:55:54.307Z"
+  "updatedAt": "2026-07-16T19:58:17.533Z"
 }
