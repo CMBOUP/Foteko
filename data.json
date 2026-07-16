@@ -1741,9 +1741,9 @@
       "paymentMethod": "Espèces",
       "status": "en_attente",
       "createdAt": "2026-07-16T19:42:07.855Z",
-      "pickupDate": "2026-07-19T00:00:00.000Z",
+      "pickupDate": "2026-07-16T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-16T19:42:07.855Z"
+      "updatedAt": "2026-07-16T19:42:28.984Z"
     }
   ],
   "clients": [
@@ -2408,5 +2408,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:42:07.855Z"
+  "updatedAt": "2026-07-16T19:42:28.984Z"
 }
