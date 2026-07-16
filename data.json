@@ -2159,6 +2159,15 @@
       "notes": "",
       "createdAt": "2026-07-16T19:30:03.432Z",
       "updatedAt": "2026-07-16T19:30:03.432Z"
+    },
+    {
+      "id": "cli_zoqopvjkn",
+      "name": "abdou thiam",
+      "phone": "779062429",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-16T19:32:53.115Z",
+      "updatedAt": "2026-07-16T19:32:53.115Z"
     }
   ],
   "expenses": [
@@ -2293,5 +2302,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:30:10.129Z"
+  "updatedAt": "2026-07-16T19:32:53.115Z"
 }
