@@ -1605,13 +1605,13 @@
         }
       ],
       "total": 3300,
-      "paid": 0,
+      "paid": 3300,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "retiré",
       "createdAt": "2026-07-16T19:26:32.502Z",
-      "pickupDate": "2026-07-16T00:00:00.000Z",
+      "pickupDate": "2026-07-17T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-16T19:26:32.502Z"
+      "updatedAt": "2026-07-17T20:14:00.121Z"
     },
     {
       "id": "T0074",
@@ -2486,5 +2486,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-17T20:13:23.299Z"
+  "updatedAt": "2026-07-17T20:14:00.121Z"
 }
