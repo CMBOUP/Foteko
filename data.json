@@ -2389,6 +2389,15 @@
       "notes": "",
       "createdAt": "2026-07-18T18:08:31.944Z",
       "updatedAt": "2026-07-18T18:08:31.944Z"
+    },
+    {
+      "id": "cli_jjhojnp7c",
+      "name": "khalilou",
+      "phone": "779920543",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-18T18:10:57.606Z",
+      "updatedAt": "2026-07-18T18:10:57.606Z"
     }
   ],
   "expenses": [
@@ -2555,5 +2564,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-18T18:08:42.062Z"
+  "updatedAt": "2026-07-18T18:10:57.606Z"
 }
