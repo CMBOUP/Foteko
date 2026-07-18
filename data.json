@@ -1871,11 +1871,11 @@
       "total": 2499,
       "paid": 2500,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-07-18T21:29:41.365Z",
-      "pickupDate": "2026-07-21T00:00:00.000Z",
+      "pickupDate": "2026-07-18T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-18T21:29:41.365Z"
+      "updatedAt": "2026-07-18T21:30:09.425Z"
     }
   ],
   "clients": [
@@ -2608,5 +2608,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-18T21:29:41.365Z"
+  "updatedAt": "2026-07-18T21:30:09.425Z"
 }
