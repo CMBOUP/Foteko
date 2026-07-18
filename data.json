@@ -1846,14 +1846,14 @@
           "unit": "pièce"
         }
       ],
-      "total": 2400,
+      "total": 2500,
       "paid": 0,
       "paymentMethod": "Espèces",
       "status": "en_attente",
       "createdAt": "2026-07-18T18:11:01.380Z",
       "pickupDate": "2026-07-18T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-18T18:11:01.380Z"
+      "updatedAt": "2026-07-18T18:11:27.997Z"
     }
   ],
   "clients": [
@@ -2586,5 +2586,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-18T18:11:01.380Z"
+  "updatedAt": "2026-07-18T18:11:27.997Z"
 }
