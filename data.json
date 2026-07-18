@@ -2386,6 +2386,14 @@
       "category": "Énergie",
       "date": "2026-07-18T12:35:39.032Z",
       "updatedAt": "2026-07-18T12:35:39.032Z"
+    },
+    {
+      "id": "exp_aarr0fg0o",
+      "label": "Fabrication caisse pour ppompe",
+      "amount": 10000,
+      "category": "Général",
+      "date": "2026-07-18T18:03:52.626Z",
+      "updatedAt": "2026-07-18T18:03:52.627Z"
     }
   ],
   "savings": [
@@ -2494,5 +2502,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-18T12:35:39.033Z"
+  "updatedAt": "2026-07-18T18:03:52.627Z"
 }
