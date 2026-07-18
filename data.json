@@ -1832,6 +1832,28 @@
       "pickupDate": "2026-07-18T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-18T18:08:42.062Z"
+    },
+    {
+      "id": "T0084",
+      "clientName": "khalilou",
+      "clientPhone": "779920543",
+      "items": [
+        {
+          "id": "svc_habit_special",
+          "name": "Habit spécial",
+          "price": 2000,
+          "qty": 1.2,
+          "unit": "pièce"
+        }
+      ],
+      "total": 2400,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-18T18:11:01.380Z",
+      "pickupDate": "2026-07-18T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-18T18:11:01.380Z"
     }
   ],
   "clients": [
@@ -2564,5 +2586,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-18T18:10:57.606Z"
+  "updatedAt": "2026-07-18T18:11:01.380Z"
 }
