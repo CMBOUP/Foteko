@@ -2378,6 +2378,14 @@
       "category": "Fournitures",
       "date": "2026-07-16T19:58:17.533Z",
       "updatedAt": "2026-07-16T19:58:17.533Z"
+    },
+    {
+      "id": "exp_asd49f7m4",
+      "label": "Courant",
+      "amount": 4000,
+      "category": "Énergie",
+      "date": "2026-07-18T12:35:39.032Z",
+      "updatedAt": "2026-07-18T12:35:39.032Z"
     }
   ],
   "savings": [
@@ -2486,5 +2494,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-17T21:33:05.722Z"
+  "updatedAt": "2026-07-18T12:35:39.033Z"
 }
