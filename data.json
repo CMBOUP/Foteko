@@ -2716,6 +2716,14 @@
       "category": "Énergie",
       "date": "2026-07-20T21:26:08.646Z",
       "updatedAt": "2026-07-20T21:26:08.646Z"
+    },
+    {
+      "id": "exp_r83157q4h",
+      "label": "Woyofal",
+      "amount": 5500,
+      "category": "Fournitures",
+      "date": "2026-07-20T21:27:01.701Z",
+      "updatedAt": "2026-07-20T21:27:01.701Z"
     }
   ],
   "savings": [
@@ -2824,5 +2832,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T21:26:08.646Z"
+  "updatedAt": "2026-07-20T21:27:01.701Z"
 }
