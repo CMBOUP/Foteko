@@ -2708,6 +2708,14 @@
       "category": "Général",
       "date": "2026-07-18T18:03:52.626Z",
       "updatedAt": "2026-07-18T18:03:52.627Z"
+    },
+    {
+      "id": "exp_08t7mafbj",
+      "label": "Woyofal",
+      "amount": 2000,
+      "category": "Énergie",
+      "date": "2026-07-20T21:26:08.646Z",
+      "updatedAt": "2026-07-20T21:26:08.646Z"
     }
   ],
   "savings": [
@@ -2816,5 +2824,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:52:11.451Z"
+  "updatedAt": "2026-07-20T21:26:08.646Z"
 }
