@@ -2619,6 +2619,15 @@
       "notes": "",
       "createdAt": "2026-07-20T20:34:56.626Z",
       "updatedAt": "2026-07-20T20:34:56.626Z"
+    },
+    {
+      "id": "cli_fylrm91jf",
+      "name": "madame sané",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-20T20:36:51.712Z",
+      "updatedAt": "2026-07-20T20:36:51.712Z"
     }
   ],
   "expenses": [
@@ -2785,5 +2794,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:35:10.874Z"
+  "updatedAt": "2026-07-20T20:36:51.712Z"
 }
