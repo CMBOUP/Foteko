@@ -879,13 +879,13 @@
         }
       ],
       "total": 1000,
-      "paid": 0,
+      "paid": 1000,
       "paymentMethod": "Espèces",
-      "status": "retiré",
+      "status": "en_cours",
       "createdAt": "2026-07-11T13:16:25.249Z",
       "pickupDate": "2026-07-09T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T13:17:10.905Z"
+      "updatedAt": "2026-07-20T20:50:39.528Z"
     },
     {
       "id": "T0041",
@@ -2816,5 +2816,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:37:14.077Z"
+  "updatedAt": "2026-07-20T20:50:39.528Z"
 }
