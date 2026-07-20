@@ -1915,11 +1915,11 @@
       "total": 1599,
       "paid": 1600,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-07-20T20:19:37.809Z",
-      "pickupDate": "2026-07-23T00:00:00.000Z",
+      "pickupDate": "2026-07-20T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-20T20:19:37.809Z"
+      "updatedAt": "2026-07-20T20:20:06.040Z"
     }
   ],
   "clients": [
@@ -2670,5 +2670,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:19:37.809Z"
+  "updatedAt": "2026-07-20T20:20:06.041Z"
 }
