@@ -2442,6 +2442,15 @@
       "notes": "",
       "createdAt": "2026-07-18T18:10:57.606Z",
       "updatedAt": "2026-07-18T18:10:57.606Z"
+    },
+    {
+      "id": "cli_yedshurx7",
+      "name": "daouda diop",
+      "phone": "771997551",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-20T20:14:34.907Z",
+      "updatedAt": "2026-07-20T20:14:34.907Z"
     }
   ],
   "expenses": [
@@ -2608,5 +2617,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-18T21:30:37.624Z"
+  "updatedAt": "2026-07-20T20:14:34.907Z"
 }
