@@ -2526,6 +2526,15 @@
       "notes": "",
       "createdAt": "2026-07-20T20:14:36.638Z",
       "updatedAt": "2026-07-20T20:14:36.638Z"
+    },
+    {
+      "id": "cli_5erlt87dc",
+      "name": "demba",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-20T20:23:49.919Z",
+      "updatedAt": "2026-07-20T20:23:49.919Z"
     }
   ],
   "expenses": [
@@ -2692,5 +2701,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:22:38.957Z"
+  "updatedAt": "2026-07-20T20:23:49.919Z"
 }
