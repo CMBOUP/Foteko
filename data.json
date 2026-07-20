@@ -1876,6 +1876,28 @@
       "pickupDate": "2026-07-18T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-18T21:30:09.425Z"
+    },
+    {
+      "id": "T0086",
+      "clientName": "daouda diop",
+      "clientPhone": "771997551",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 16.91,
+          "unit": "kg"
+        }
+      ],
+      "total": 5073,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-20T20:14:43.754Z",
+      "pickupDate": "2026-07-23T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-20T20:14:43.754Z"
     }
   ],
   "clients": [
@@ -2626,5 +2648,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:14:36.638Z"
+  "updatedAt": "2026-07-20T20:14:43.754Z"
 }
