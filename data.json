@@ -2588,6 +2588,15 @@
       "notes": "",
       "createdAt": "2026-07-20T20:23:51.064Z",
       "updatedAt": "2026-07-20T20:23:51.065Z"
+    },
+    {
+      "id": "cli_jisuhlxsl",
+      "name": "mère bi",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-20T20:34:56.626Z",
+      "updatedAt": "2026-07-20T20:34:56.626Z"
     }
   ],
   "expenses": [
@@ -2754,5 +2763,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:33:01.739Z"
+  "updatedAt": "2026-07-20T20:34:56.626Z"
 }
