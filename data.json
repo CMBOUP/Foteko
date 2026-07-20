@@ -2451,6 +2451,15 @@
       "notes": "",
       "createdAt": "2026-07-20T20:14:34.907Z",
       "updatedAt": "2026-07-20T20:14:34.907Z"
+    },
+    {
+      "id": "cli_6isvzn5qe",
+      "name": "daouda diop",
+      "phone": "771997551",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-20T20:14:36.638Z",
+      "updatedAt": "2026-07-20T20:14:36.638Z"
     }
   ],
   "expenses": [
@@ -2617,5 +2626,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:14:34.907Z"
+  "updatedAt": "2026-07-20T20:14:36.638Z"
 }
