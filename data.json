@@ -2003,11 +2003,11 @@
       "total": 2550,
       "paid": 2550,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-07-20T20:35:10.874Z",
       "pickupDate": "2026-07-20T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-21T18:29:37.173Z"
+      "updatedAt": "2026-07-21T21:52:31.637Z"
     },
     {
       "id": "T0092",
@@ -2840,5 +2840,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-21T21:52:14.788Z"
+  "updatedAt": "2026-07-21T21:52:31.637Z"
 }
