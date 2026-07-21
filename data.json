@@ -2023,13 +2023,13 @@
         }
       ],
       "total": 2550,
-      "paid": 0,
+      "paid": 2550,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "en_cours",
       "createdAt": "2026-07-20T20:37:14.077Z",
       "pickupDate": "2026-07-23T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-20T20:37:14.077Z"
+      "updatedAt": "2026-07-21T18:28:35.865Z"
     }
   ],
   "clients": [
@@ -2832,5 +2832,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-20T21:27:01.701Z"
+  "updatedAt": "2026-07-21T18:28:35.865Z"
 }
