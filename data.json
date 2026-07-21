@@ -2724,6 +2724,14 @@
       "category": "Fournitures",
       "date": "2026-07-20T21:27:01.701Z",
       "updatedAt": "2026-07-20T21:27:01.701Z"
+    },
+    {
+      "id": "exp_t4in2z083",
+      "label": "Réparation LG 13kg courant",
+      "amount": 29500,
+      "category": "Entretien",
+      "date": "2026-07-21T18:52:02.212Z",
+      "updatedAt": "2026-07-21T18:52:02.212Z"
     }
   ],
   "savings": [
@@ -2832,5 +2840,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-21T18:31:01.881Z"
+  "updatedAt": "2026-07-21T18:52:02.212Z"
 }
