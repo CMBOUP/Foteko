@@ -2734,6 +2734,15 @@
       "notes": "",
       "createdAt": "2026-07-22T12:35:53.970Z",
       "updatedAt": "2026-07-22T12:35:53.970Z"
+    },
+    {
+      "id": "cli_s9zp6t3s9",
+      "name": "papa ndèye",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-22T12:38:09.842Z",
+      "updatedAt": "2026-07-22T12:38:09.842Z"
     }
   ],
   "expenses": [
@@ -2924,5 +2933,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T12:36:10.934Z"
+  "updatedAt": "2026-07-22T12:38:09.842Z"
 }
