@@ -1164,14 +1164,14 @@
           "unit": "kg"
         }
       ],
-      "total": 6240,
+      "total": 6250,
       "paid": 0,
       "paymentMethod": "Espèces",
       "status": "prêt",
       "createdAt": "2026-07-11T20:06:42.995Z",
       "pickupDate": "2026-07-11T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-11T21:01:39.145Z"
+      "updatedAt": "2026-07-22T13:02:59.772Z"
     },
     {
       "id": "T0054",
@@ -3057,5 +3057,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T13:02:38.211Z"
+  "updatedAt": "2026-07-22T13:02:59.772Z"
 }
