@@ -2836,6 +2836,15 @@
       "notes": "",
       "createdAt": "2026-07-22T12:50:52.384Z",
       "updatedAt": "2026-07-22T12:50:52.384Z"
+    },
+    {
+      "id": "cli_34ah5lyh1",
+      "name": "clotilde",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-22T12:50:54.266Z",
+      "updatedAt": "2026-07-22T12:50:54.266Z"
     }
   ],
   "expenses": [
@@ -3026,5 +3035,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T12:50:52.384Z"
+  "updatedAt": "2026-07-22T12:50:54.266Z"
 }
