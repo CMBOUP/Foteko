@@ -2949,6 +2949,14 @@
       "category": "Entretien",
       "date": "2026-07-21T18:52:02.212Z",
       "updatedAt": "2026-07-21T18:52:02.212Z"
+    },
+    {
+      "id": "exp_pwohew3ii",
+      "label": "woyofal",
+      "amount": 2000,
+      "category": "Énergie",
+      "date": "2026-07-22T19:44:27.526Z",
+      "updatedAt": "2026-07-22T19:44:27.526Z"
     }
   ],
   "savings": [
@@ -3057,5 +3065,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T13:02:59.772Z"
+  "updatedAt": "2026-07-22T19:44:27.526Z"
 }
