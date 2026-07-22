@@ -2088,14 +2088,14 @@
           "unit": "kg"
         }
       ],
-      "total": 1998,
+      "total": 2000,
       "paid": 2000,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-07-22T12:36:10.934Z",
       "pickupDate": "2026-07-22T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-22T12:36:10.934Z"
+      "updatedAt": "2026-07-22T12:57:00.262Z"
     },
     {
       "id": "T0096",
@@ -3057,5 +3057,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T12:56:34.216Z"
+  "updatedAt": "2026-07-22T12:57:00.262Z"
 }
