@@ -2796,6 +2796,15 @@
       "notes": "",
       "createdAt": "2026-07-22T12:47:28.498Z",
       "updatedAt": "2026-07-22T12:47:28.498Z"
+    },
+    {
+      "id": "cli_aedmswkk3",
+      "name": "sidi",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-22T12:49:09.986Z",
+      "updatedAt": "2026-07-22T12:49:09.986Z"
     }
   ],
   "expenses": [
@@ -2986,5 +2995,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T12:47:46.019Z"
+  "updatedAt": "2026-07-22T12:49:09.986Z"
 }
