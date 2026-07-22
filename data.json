@@ -2957,6 +2957,14 @@
       "category": "Énergie",
       "date": "2026-07-22T19:44:27.526Z",
       "updatedAt": "2026-07-22T19:44:27.526Z"
+    },
+    {
+      "id": "exp_ypdufbgbo",
+      "label": "blanchissant",
+      "amount": 500,
+      "category": "Fournitures",
+      "date": "2026-07-22T19:45:07.212Z",
+      "updatedAt": "2026-07-22T19:45:07.212Z"
     }
   ],
   "savings": [
@@ -3065,5 +3073,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-22T19:44:27.526Z"
+  "updatedAt": "2026-07-22T19:45:07.212Z"
 }
