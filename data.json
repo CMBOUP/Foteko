@@ -2889,6 +2889,15 @@
       "notes": "",
       "createdAt": "2026-07-22T12:50:54.266Z",
       "updatedAt": "2026-07-22T12:50:54.266Z"
+    },
+    {
+      "id": "cli_jx0r5ebfv",
+      "name": "dianké",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-23T19:05:23.737Z",
+      "updatedAt": "2026-07-23T19:05:23.737Z"
     }
   ],
   "expenses": [
@@ -3095,5 +3104,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-23T19:03:27.354Z"
+  "updatedAt": "2026-07-23T19:05:23.737Z"
 }
