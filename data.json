@@ -3013,6 +3013,15 @@
       "notes": "",
       "createdAt": "2026-07-25T14:57:06.864Z",
       "updatedAt": "2026-07-25T14:57:06.865Z"
+    },
+    {
+      "id": "cli_z4zuay9ui",
+      "name": "bécaye",
+      "phone": "772655549",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T14:57:09.263Z",
+      "updatedAt": "2026-07-25T14:57:09.263Z"
     }
   ],
   "expenses": [
@@ -3219,5 +3228,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T14:57:06.865Z"
+  "updatedAt": "2026-07-25T14:57:09.263Z"
 }
