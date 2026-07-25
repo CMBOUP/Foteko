@@ -2294,6 +2294,28 @@
       "pickupDate": "2026-07-23T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-25T14:52:29.693Z"
+    },
+    {
+      "id": "T0105",
+      "clientName": "bécaye",
+      "clientPhone": "772655549",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 16,
+          "unit": "kg"
+        }
+      ],
+      "total": 4800,
+      "paid": 2000,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-25T14:57:15.611Z",
+      "pickupDate": "2026-07-23T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-25T14:57:15.611Z"
     }
   ],
   "clients": [
@@ -3228,5 +3250,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T14:57:09.263Z"
+  "updatedAt": "2026-07-25T14:57:15.611Z"
 }
