@@ -2198,14 +2198,14 @@
           "unit": "kg"
         }
       ],
-      "total": 2850,
+      "total": 0,
       "paid": 0,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "annulé",
       "createdAt": "2026-07-23T19:03:27.353Z",
       "pickupDate": "2026-07-23T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-23T19:08:17.342Z"
+      "updatedAt": "2026-07-25T20:13:58.557Z"
     },
     {
       "id": "T0101",
@@ -3341,5 +3341,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T17:09:00.155Z"
+  "updatedAt": "2026-07-25T20:13:58.558Z"
 }
