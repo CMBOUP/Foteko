@@ -3159,6 +3159,15 @@
       "notes": "",
       "createdAt": "2026-07-25T21:22:52.304Z",
       "updatedAt": "2026-07-25T21:22:52.304Z"
+    },
+    {
+      "id": "cli_umy456clr",
+      "name": "yayou médoune",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T21:22:54.072Z",
+      "updatedAt": "2026-07-25T21:22:54.072Z"
     }
   ],
   "expenses": [
@@ -3381,5 +3390,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T21:22:52.304Z"
+  "updatedAt": "2026-07-25T21:22:54.072Z"
 }
