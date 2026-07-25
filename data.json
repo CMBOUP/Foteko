@@ -3217,6 +3217,14 @@
       "category": "Fournitures",
       "date": "2026-07-22T19:45:07.212Z",
       "updatedAt": "2026-07-22T19:45:07.212Z"
+    },
+    {
+      "id": "exp_dwo954co4",
+      "label": "Woyofal",
+      "amount": 2000,
+      "category": "Énergie",
+      "date": "2026-07-25T17:08:58.423Z",
+      "updatedAt": "2026-07-25T17:08:58.423Z"
     }
   ],
   "savings": [
@@ -3325,5 +3333,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T17:05:57.340Z"
+  "updatedAt": "2026-07-25T17:08:58.423Z"
 }
