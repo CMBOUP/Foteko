@@ -1275,13 +1275,13 @@
         }
       ],
       "total": 2900,
-      "paid": 0,
+      "paid": 2900,
       "paymentMethod": "Espèces",
       "status": "en_cours",
       "createdAt": "2026-07-13T20:43:24.140Z",
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-22T13:02:38.211Z"
+      "updatedAt": "2026-07-25T14:45:04.755Z"
     },
     {
       "id": "T0059",
@@ -3148,5 +3148,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T14:45:00.299Z"
+  "updatedAt": "2026-07-25T14:45:04.755Z"
 }
