@@ -3150,6 +3150,15 @@
       "notes": "",
       "createdAt": "2026-07-25T21:17:13.373Z",
       "updatedAt": "2026-07-25T21:17:13.373Z"
+    },
+    {
+      "id": "cli_id7sudaql",
+      "name": "yayou médoune",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T21:22:52.304Z",
+      "updatedAt": "2026-07-25T21:22:52.304Z"
     }
   ],
   "expenses": [
@@ -3372,5 +3381,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T21:21:20.675Z"
+  "updatedAt": "2026-07-25T21:22:52.304Z"
 }
