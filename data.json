@@ -3199,6 +3199,15 @@
       "notes": "",
       "createdAt": "2026-07-25T21:56:40.890Z",
       "updatedAt": "2026-07-25T21:56:40.890Z"
+    },
+    {
+      "id": "cli_azhrwlk2e",
+      "name": "lucia",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T21:56:42.253Z",
+      "updatedAt": "2026-07-25T21:56:42.253Z"
     }
   ],
   "expenses": [
@@ -3421,5 +3430,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T21:56:40.890Z"
+  "updatedAt": "2026-07-25T21:56:42.253Z"
 }
