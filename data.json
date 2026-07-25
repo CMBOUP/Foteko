@@ -3066,6 +3066,15 @@
       "notes": "",
       "createdAt": "2026-07-25T14:57:09.263Z",
       "updatedAt": "2026-07-25T14:57:09.263Z"
+    },
+    {
+      "id": "cli_dz6b9hhx1",
+      "name": "absa",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T15:09:13.890Z",
+      "updatedAt": "2026-07-25T15:09:13.890Z"
     }
   ],
   "expenses": [
@@ -3272,5 +3281,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T15:01:25.046Z"
+  "updatedAt": "2026-07-25T15:09:13.890Z"
 }
