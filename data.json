@@ -2396,14 +2396,14 @@
           "unit": "kg"
         }
       ],
-      "total": 9999,
+      "total": 10000,
       "paid": 10000,
       "paymentMethod": "Espèces",
       "status": "en_cours",
       "createdAt": "2026-07-25T21:17:29.755Z",
-      "pickupDate": "2026-07-28T00:00:00.000Z",
+      "pickupDate": "2026-07-25T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-25T21:17:29.755Z"
+      "updatedAt": "2026-07-25T21:25:19.373Z"
     },
     {
       "id": "T0110",
@@ -3412,5 +3412,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T21:24:48.343Z"
+  "updatedAt": "2026-07-25T21:25:19.373Z"
 }
