@@ -2272,6 +2272,28 @@
       "pickupDate": "2026-07-28T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-25T14:49:12.633Z"
+    },
+    {
+      "id": "T0104",
+      "clientName": "tata codou",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 8.33,
+          "unit": "kg"
+        }
+      ],
+      "total": 2499,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-25T14:52:05.727Z",
+      "pickupDate": "2026-07-23T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-25T14:52:05.727Z"
     }
   ],
   "clients": [
@@ -3188,5 +3210,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T14:51:22.141Z"
+  "updatedAt": "2026-07-25T14:52:05.727Z"
 }
