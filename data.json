@@ -2942,6 +2942,15 @@
       "notes": "",
       "createdAt": "2026-07-23T19:05:23.737Z",
       "updatedAt": "2026-07-23T19:05:23.737Z"
+    },
+    {
+      "id": "cli_463etffpp",
+      "name": "amina",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T14:48:05.290Z",
+      "updatedAt": "2026-07-25T14:48:05.290Z"
     }
   ],
   "expenses": [
@@ -3148,5 +3157,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T14:45:04.755Z"
+  "updatedAt": "2026-07-25T14:48:05.290Z"
 }
