@@ -3225,6 +3225,14 @@
       "category": "Énergie",
       "date": "2026-07-25T17:08:58.423Z",
       "updatedAt": "2026-07-25T17:08:58.423Z"
+    },
+    {
+      "id": "exp_4sfo6jv5b",
+      "label": "Woyofal",
+      "amount": 2000,
+      "category": "Énergie",
+      "date": "2026-07-25T17:09:00.155Z",
+      "updatedAt": "2026-07-25T17:09:00.155Z"
     }
   ],
   "savings": [
@@ -3333,5 +3341,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T17:08:58.423Z"
+  "updatedAt": "2026-07-25T17:09:00.155Z"
 }
