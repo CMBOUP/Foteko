@@ -3119,6 +3119,15 @@
       "notes": "",
       "createdAt": "2026-07-25T15:09:13.890Z",
       "updatedAt": "2026-07-25T15:09:13.890Z"
+    },
+    {
+      "id": "cli_qswdlrpbr",
+      "name": "zara",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-25T21:17:13.373Z",
+      "updatedAt": "2026-07-25T21:17:13.373Z"
     }
   ],
   "expenses": [
@@ -3341,5 +3350,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T20:13:58.558Z"
+  "updatedAt": "2026-07-25T21:17:13.373Z"
 }
