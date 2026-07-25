@@ -2418,14 +2418,14 @@
           "unit": "kg"
         }
       ],
-      "total": 1449,
+      "total": 1450,
       "paid": 0,
       "paymentMethod": "Espèces",
       "status": "en_attente",
       "createdAt": "2026-07-25T21:23:02.228Z",
-      "pickupDate": "2026-07-28T00:00:00.000Z",
+      "pickupDate": "2026-07-25T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-25T21:23:02.228Z"
+      "updatedAt": "2026-07-25T21:24:48.343Z"
     }
   ],
   "clients": [
@@ -3412,5 +3412,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-25T21:23:41.293Z"
+  "updatedAt": "2026-07-25T21:24:48.343Z"
 }
