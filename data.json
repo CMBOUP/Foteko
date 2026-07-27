@@ -3349,6 +3349,15 @@
       "notes": "",
       "createdAt": "2026-07-27T18:09:30.041Z",
       "updatedAt": "2026-07-27T18:09:30.041Z"
+    },
+    {
+      "id": "cli_5o7rv9nki",
+      "name": "becaye",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-27T18:12:09.642Z",
+      "updatedAt": "2026-07-27T18:12:09.642Z"
     }
   ],
   "expenses": [
@@ -3571,5 +3580,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-27T18:11:04.473Z"
+  "updatedAt": "2026-07-27T18:12:09.642Z"
 }
