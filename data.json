@@ -3494,6 +3494,14 @@
       "category": "Énergie",
       "date": "2026-07-25T17:09:00.155Z",
       "updatedAt": "2026-07-25T17:09:00.155Z"
+    },
+    {
+      "id": "exp_cbiiek7kb",
+      "label": "Omo",
+      "amount": 5500,
+      "category": "Fournitures",
+      "date": "2026-07-29T00:14:54.841Z",
+      "updatedAt": "2026-07-29T00:14:54.841Z"
     }
   ],
   "savings": [
@@ -3602,5 +3610,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-29T00:12:08.139Z"
+  "updatedAt": "2026-07-29T00:14:54.841Z"
 }
