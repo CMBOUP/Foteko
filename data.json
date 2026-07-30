@@ -3402,6 +3402,15 @@
       "notes": "",
       "createdAt": "2026-07-27T18:12:09.642Z",
       "updatedAt": "2026-07-27T18:12:09.642Z"
+    },
+    {
+      "id": "cli_ydabako7l",
+      "name": "mamadou niang",
+      "phone": "774147674",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-30T14:55:50.983Z",
+      "updatedAt": "2026-07-30T14:55:50.983Z"
     }
   ],
   "expenses": [
@@ -3640,5 +3649,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T14:53:58.547Z"
+  "updatedAt": "2026-07-30T14:55:50.983Z"
 }
