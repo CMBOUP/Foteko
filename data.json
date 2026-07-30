@@ -2690,6 +2690,28 @@
       "pickupDate": "2026-07-29T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-30T15:19:00.449Z"
+    },
+    {
+      "id": "T0123",
+      "clientName": "ndèye fatou diasy",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 29.5,
+          "unit": "kg"
+        }
+      ],
+      "total": 8850,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-30T15:21:46.827Z",
+      "pickupDate": "2026-07-29T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-30T15:21:46.827Z"
     }
   ],
   "clients": [
@@ -3764,5 +3786,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T15:21:35.694Z"
+  "updatedAt": "2026-07-30T15:21:46.827Z"
 }
