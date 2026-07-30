@@ -3517,6 +3517,15 @@
       "notes": "",
       "createdAt": "2026-07-30T15:21:34.714Z",
       "updatedAt": "2026-07-30T15:21:34.715Z"
+    },
+    {
+      "id": "cli_9ergl9xkz",
+      "name": "ndèye fatou diasy",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-30T15:21:35.694Z",
+      "updatedAt": "2026-07-30T15:21:35.694Z"
     }
   ],
   "expenses": [
@@ -3755,5 +3764,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T15:21:34.715Z"
+  "updatedAt": "2026-07-30T15:21:35.694Z"
 }
