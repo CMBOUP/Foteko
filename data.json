@@ -2590,18 +2590,18 @@
           "id": "svc_lavage_simple",
           "name": "Lavage simple",
           "price": 300,
-          "qty": 7.33,
+          "qty": 7.34,
           "unit": "kg"
         }
       ],
-      "total": 2199,
+      "total": 2200,
       "paid": 0,
       "paymentMethod": "Espèces",
       "status": "en_attente",
       "createdAt": "2026-07-30T14:53:22.387Z",
-      "pickupDate": "2026-08-02T00:00:00.000Z",
+      "pickupDate": "2026-07-28T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-30T14:53:22.387Z"
+      "updatedAt": "2026-07-30T14:53:58.547Z"
     }
   ],
   "clients": [
@@ -3640,5 +3640,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T14:53:22.387Z"
+  "updatedAt": "2026-07-30T14:53:58.547Z"
 }
