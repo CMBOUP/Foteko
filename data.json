@@ -3477,6 +3477,15 @@
       "notes": "",
       "createdAt": "2026-07-30T14:55:50.983Z",
       "updatedAt": "2026-07-30T14:55:50.983Z"
+    },
+    {
+      "id": "cli_59m892dpz",
+      "name": "coumba wellé",
+      "phone": "786010912",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-30T15:13:11.682Z",
+      "updatedAt": "2026-07-30T15:13:11.682Z"
     }
   ],
   "expenses": [
@@ -3715,5 +3724,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T15:09:34.369Z"
+  "updatedAt": "2026-07-30T15:13:11.682Z"
 }
