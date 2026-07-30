@@ -2668,6 +2668,28 @@
       "pickupDate": "2026-08-02T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-30T15:09:34.369Z"
+    },
+    {
+      "id": "T0122",
+      "clientName": "coumba wellé",
+      "clientPhone": "786010912",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 6.666,
+          "unit": "kg"
+        }
+      ],
+      "total": 2000,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-30T15:19:00.449Z",
+      "pickupDate": "2026-07-29T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-30T15:19:00.449Z"
     }
   ],
   "clients": [
@@ -3724,5 +3746,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T15:13:11.682Z"
+  "updatedAt": "2026-07-30T15:19:00.449Z"
 }
