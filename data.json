@@ -2711,6 +2711,28 @@
       "pickupDate": "2026-07-29T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-30T17:14:50.152Z"
+    },
+    {
+      "id": "T0124",
+      "clientName": "penda",
+      "clientPhone": "707528905",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 17.333,
+          "unit": "kg"
+        }
+      ],
+      "total": 5200,
+      "paid": 5200,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-08-10T11:53:19.367Z",
+      "pickupDate": "2026-07-31T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-08-10T11:53:19.367Z"
     }
   ],
   "clients": [
@@ -3793,5 +3815,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T11:48:32.190Z"
+  "updatedAt": "2026-08-10T11:53:19.367Z"
 }
