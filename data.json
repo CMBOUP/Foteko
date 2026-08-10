@@ -4005,6 +4005,14 @@
       "category": "Fournitures",
       "date": "2026-08-10T12:15:49.834Z",
       "updatedAt": "2026-08-10T12:15:49.834Z"
+    },
+    {
+      "id": "exp_99a6mruw0",
+      "label": "Eau de javel et blanchissant",
+      "amount": 500,
+      "category": "Fournitures",
+      "date": "2026-08-10T12:24:57.622Z",
+      "updatedAt": "2026-08-10T12:24:57.622Z"
     }
   ],
   "savings": [
@@ -4113,5 +4121,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:23:46.039Z"
+  "updatedAt": "2026-08-10T12:24:57.622Z"
 }
