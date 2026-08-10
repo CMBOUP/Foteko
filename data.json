@@ -3569,6 +3569,15 @@
       "notes": "",
       "createdAt": "2026-07-30T15:21:35.694Z",
       "updatedAt": "2026-07-30T15:21:35.694Z"
+    },
+    {
+      "id": "cli_3itqupqfn",
+      "name": "ndeye ami",
+      "phone": "774182705",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-10T11:56:06.766Z",
+      "updatedAt": "2026-08-10T11:56:06.766Z"
     }
   ],
   "expenses": [
@@ -3815,5 +3824,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T11:53:19.367Z"
+  "updatedAt": "2026-08-10T11:56:06.766Z"
 }
