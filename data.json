@@ -3759,6 +3759,15 @@
       "notes": "",
       "createdAt": "2026-08-10T12:17:24.215Z",
       "updatedAt": "2026-08-10T12:17:24.215Z"
+    },
+    {
+      "id": "cli_ammjz10p0",
+      "name": "christophe",
+      "phone": "7774622199",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-10T12:19:21.329Z",
+      "updatedAt": "2026-08-10T12:19:21.329Z"
     }
   ],
   "expenses": [
@@ -4029,5 +4038,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:18:05.393Z"
+  "updatedAt": "2026-08-10T12:19:21.329Z"
 }
