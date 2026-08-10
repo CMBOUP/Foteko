@@ -3728,6 +3728,15 @@
       "notes": "",
       "createdAt": "2026-08-10T12:14:56.397Z",
       "updatedAt": "2026-08-10T12:14:56.397Z"
+    },
+    {
+      "id": "cli_olpgz8rhm",
+      "name": "mansour",
+      "phone": "772809138",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-10T12:17:24.215Z",
+      "updatedAt": "2026-08-10T12:17:24.215Z"
     }
   ],
   "expenses": [
@@ -3998,5 +4007,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:15:49.834Z"
+  "updatedAt": "2026-08-10T12:17:24.215Z"
 }
