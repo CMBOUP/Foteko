@@ -2772,11 +2772,11 @@
       "total": 1620,
       "paid": 1800,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-08-10T11:58:06.033Z",
       "pickupDate": "2026-07-31T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-08-10T11:58:06.033Z"
+      "updatedAt": "2026-08-10T12:07:02.072Z"
     },
     {
       "id": "T0127",
@@ -3937,5 +3937,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:06:49.765Z"
+  "updatedAt": "2026-08-10T12:07:02.072Z"
 }
