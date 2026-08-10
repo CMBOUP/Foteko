@@ -2865,6 +2865,28 @@
       "pickupDate": "2026-08-05T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-08-10T12:15:07.227Z"
+    },
+    {
+      "id": "T0131",
+      "clientName": "mansour",
+      "clientPhone": "772809138",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 4.5,
+          "unit": "kg"
+        }
+      ],
+      "total": 1350,
+      "paid": 1350,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-08-10T12:18:05.393Z",
+      "pickupDate": "2026-08-05T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-08-10T12:18:05.393Z"
     }
   ],
   "clients": [
@@ -4007,5 +4029,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:17:24.215Z"
+  "updatedAt": "2026-08-10T12:18:05.393Z"
 }
