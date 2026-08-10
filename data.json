@@ -2816,11 +2816,11 @@
       "total": 1050,
       "paid": 1050,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-08-10T12:06:03.701Z",
       "pickupDate": "2026-08-01T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-08-10T12:06:03.701Z"
+      "updatedAt": "2026-08-10T12:06:35.310Z"
     }
   ],
   "clients": [
@@ -3937,5 +3937,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:06:03.701Z"
+  "updatedAt": "2026-08-10T12:06:35.310Z"
 }
