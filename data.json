@@ -3777,6 +3777,14 @@
       "category": "Fournitures",
       "date": "2026-08-10T12:01:06.618Z",
       "updatedAt": "2026-08-10T12:01:06.618Z"
+    },
+    {
+      "id": "exp_3v2gcqlpp",
+      "label": "Mbousse",
+      "amount": 200,
+      "category": "Fournitures",
+      "date": "2026-08-10T12:02:32.733Z",
+      "updatedAt": "2026-08-10T12:02:32.733Z"
     }
   ],
   "savings": [
@@ -3885,5 +3893,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:01:06.618Z"
+  "updatedAt": "2026-08-10T12:02:32.733Z"
 }
