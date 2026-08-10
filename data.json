@@ -20,14 +20,13 @@
           "unit": "pièce"
         }
       ],
-      "total": 0,
-      "paid": 0,
+      "total": 5500,
+      "paid": 5500,
       "paymentMethod": "Espèces",
-      "status": "annulé",
-      "createdAt": "2026-07-09T07:17:36.914Z",
-      "pickupDate": "2026-07-10T00:00:00.000Z",
-      "cashier": "Fatou Diop",
-      "updatedAt": "2026-07-12T11:32:11.114Z"
+      "status": "retiré",
+      "createdAt": "2026-08-02T04:11:06.995Z",
+      "pickupDate": "2026-08-03T04:11:06.995Z",
+      "cashier": "Fatou Diop"
     },
     {
       "id": "T0002",
@@ -2721,7 +2720,7 @@
       "phone": "77 450 12 34",
       "address": "Plateau, Dakar",
       "notes": "Préfère cintres pour vestes",
-      "createdAt": "2026-07-10T19:17:36.914Z"
+      "createdAt": "2026-08-03T16:11:06.995Z"
     },
     {
       "id": "cli_seynabou",
@@ -2729,7 +2728,7 @@
       "phone": "76 590 88 12",
       "address": "Almadies, Dakar",
       "notes": "",
-      "createdAt": "2026-07-10T19:17:36.914Z"
+      "createdAt": "2026-08-03T16:11:06.995Z"
     },
     {
       "id": "cli_babacar",
@@ -2737,7 +2736,7 @@
       "phone": "70 820 44 55",
       "address": "Mermoz, Dakar",
       "notes": "Urgences fréquentes",
-      "createdAt": "2026-07-10T19:17:36.914Z"
+      "createdAt": "2026-08-03T16:11:06.995Z"
     },
     {
       "id": "cli_vdnbnnjb7",
@@ -3786,5 +3785,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-30T17:32:50.020Z"
+  "updatedAt": "2026-08-10T11:35:48.368Z"
 }
