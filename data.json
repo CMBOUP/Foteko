@@ -2616,13 +2616,13 @@
         }
       ],
       "total": 1450,
-      "paid": 0,
+      "paid": 1450,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "en_cours",
       "createdAt": "2026-07-30T15:00:07.571Z",
       "pickupDate": "2026-07-28T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-30T15:00:51.525Z"
+      "updatedAt": "2026-08-10T11:48:17.470Z"
     },
     {
       "id": "T0120",
@@ -3793,5 +3793,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T11:48:07.027Z"
+  "updatedAt": "2026-08-10T11:48:17.470Z"
 }
