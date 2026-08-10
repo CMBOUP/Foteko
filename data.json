@@ -3812,6 +3812,15 @@
       "notes": "",
       "createdAt": "2026-08-10T12:19:21.329Z",
       "updatedAt": "2026-08-10T12:19:21.329Z"
+    },
+    {
+      "id": "cli_6qjoohvfw",
+      "name": "yayou tabara",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-10T12:23:29.035Z",
+      "updatedAt": "2026-08-10T12:23:29.035Z"
     }
   ],
   "expenses": [
@@ -4082,5 +4091,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:21:33.138Z"
+  "updatedAt": "2026-08-10T12:23:29.035Z"
 }
