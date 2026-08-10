@@ -3882,6 +3882,14 @@
       "category": "Fournitures",
       "date": "2026-08-10T12:02:32.733Z",
       "updatedAt": "2026-08-10T12:02:32.733Z"
+    },
+    {
+      "id": "exp_p6ha6soep",
+      "label": "Blanchissant",
+      "amount": 350,
+      "category": "Fournitures",
+      "date": "2026-08-10T12:15:49.834Z",
+      "updatedAt": "2026-08-10T12:15:49.834Z"
     }
   ],
   "savings": [
@@ -3990,5 +3998,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:15:07.227Z"
+  "updatedAt": "2026-08-10T12:15:49.834Z"
 }
