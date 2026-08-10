@@ -2887,6 +2887,28 @@
       "pickupDate": "2026-08-05T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-08-10T12:18:05.393Z"
+    },
+    {
+      "id": "T0132",
+      "clientName": "christophe",
+      "clientPhone": "7774622199",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 11.166,
+          "unit": "kg"
+        }
+      ],
+      "total": 3350,
+      "paid": 3350,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-08-10T12:19:34.030Z",
+      "pickupDate": "2026-08-05T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-08-10T12:19:34.030Z"
     }
   ],
   "clients": [
@@ -4038,5 +4060,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-10T12:19:21.329Z"
+  "updatedAt": "2026-08-10T12:19:34.030Z"
 }
