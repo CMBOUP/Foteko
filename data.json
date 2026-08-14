@@ -3041,6 +3041,28 @@
       "pickupDate": "2026-08-12T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-08-14T20:13:16.446Z"
+    },
+    {
+      "id": "T0139",
+      "clientName": "daouda diop",
+      "clientPhone": "771997551",
+      "items": [
+        {
+          "id": "svc_lavage_sechage",
+          "name": "Lavage & séchage",
+          "price": 500,
+          "qty": 9.2,
+          "unit": "kg"
+        }
+      ],
+      "total": 4600,
+      "paid": 0,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-08-14T20:14:43.553Z",
+      "pickupDate": "2026-08-12T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-08-14T20:14:43.553Z"
     }
   ],
   "clients": [
@@ -4227,5 +4249,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:13:16.446Z"
+  "updatedAt": "2026-08-14T20:14:43.553Z"
 }
