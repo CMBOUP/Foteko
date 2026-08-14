@@ -4002,6 +4002,15 @@
       "notes": "",
       "createdAt": "2026-08-14T20:16:32.992Z",
       "updatedAt": "2026-08-14T20:16:32.992Z"
+    },
+    {
+      "id": "cli_9xgxcxigv",
+      "name": "ibrahima",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-14T20:18:05.324Z",
+      "updatedAt": "2026-08-14T20:18:05.324Z"
     }
   ],
   "expenses": [
@@ -4280,5 +4289,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:17:24.085Z"
+  "updatedAt": "2026-08-14T20:18:05.324Z"
 }
