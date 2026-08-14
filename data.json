@@ -3124,11 +3124,11 @@
       "total": 8050,
       "paid": 8050,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "retiré",
       "createdAt": "2026-08-14T20:23:33.763Z",
       "pickupDate": "2026-08-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-08-14T20:23:33.763Z"
+      "updatedAt": "2026-08-14T20:39:35.745Z"
     },
     {
       "id": "T0143",
@@ -4408,5 +4408,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:27:29.689Z"
+  "updatedAt": "2026-08-14T20:39:35.745Z"
 }
