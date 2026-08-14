@@ -3168,11 +3168,11 @@
       "total": 3250,
       "paid": 0,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "retiré",
       "createdAt": "2026-08-14T20:26:17.647Z",
       "pickupDate": "2026-08-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-08-14T20:26:17.647Z"
+      "updatedAt": "2026-08-14T20:40:20.573Z"
     },
     {
       "id": "T0145",
@@ -4408,5 +4408,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:39:59.125Z"
+  "updatedAt": "2026-08-14T20:40:20.573Z"
 }
