@@ -3918,6 +3918,15 @@
       "notes": "",
       "createdAt": "2026-08-14T20:09:12.265Z",
       "updatedAt": "2026-08-14T20:09:12.265Z"
+    },
+    {
+      "id": "cli_ntrshlanf",
+      "name": "agnes",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-14T20:10:45.076Z",
+      "updatedAt": "2026-08-14T20:10:45.076Z"
     }
   ],
   "expenses": [
@@ -4196,5 +4205,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:09:30.229Z"
+  "updatedAt": "2026-08-14T20:10:45.076Z"
 }
