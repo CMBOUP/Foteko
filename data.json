@@ -3887,6 +3887,15 @@
       "notes": "",
       "createdAt": "2026-08-10T12:23:29.035Z",
       "updatedAt": "2026-08-10T12:23:29.035Z"
+    },
+    {
+      "id": "cli_u1v6039pi",
+      "name": "mme thiam",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-14T20:09:12.265Z",
+      "updatedAt": "2026-08-14T20:09:12.265Z"
     }
   ],
   "expenses": [
@@ -4165,5 +4174,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:07:12.015Z"
+  "updatedAt": "2026-08-14T20:09:12.265Z"
 }
