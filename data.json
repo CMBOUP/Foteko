@@ -3971,6 +3971,15 @@
       "notes": "",
       "createdAt": "2026-08-14T20:10:45.076Z",
       "updatedAt": "2026-08-14T20:10:45.076Z"
+    },
+    {
+      "id": "cli_qsm60gldd",
+      "name": "sonko",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-14T20:16:32.992Z",
+      "updatedAt": "2026-08-14T20:16:32.992Z"
     }
   ],
   "expenses": [
@@ -4249,5 +4258,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:14:43.553Z"
+  "updatedAt": "2026-08-14T20:16:32.992Z"
 }
