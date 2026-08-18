@@ -4596,6 +4596,14 @@
       "category": "Fournitures",
       "date": "2026-08-10T12:24:57.622Z",
       "updatedAt": "2026-08-10T12:24:57.622Z"
+    },
+    {
+      "id": "exp_r27qxf89m",
+      "label": "omo",
+      "amount": 5500,
+      "category": "Fournitures",
+      "date": "2026-08-18T11:44:22.618Z",
+      "updatedAt": "2026-08-18T11:44:22.618Z"
     }
   ],
   "savings": [
@@ -4704,5 +4712,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:26:12.171Z"
+  "updatedAt": "2026-08-18T11:44:22.618Z"
 }
