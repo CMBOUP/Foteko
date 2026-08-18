@@ -4612,6 +4612,14 @@
       "category": "Fournitures",
       "date": "2026-08-18T11:45:08.385Z",
       "updatedAt": "2026-08-18T11:45:08.385Z"
+    },
+    {
+      "id": "exp_mwr677sxq",
+      "label": "Loyer aout",
+      "amount": 110000,
+      "category": "Général",
+      "date": "2026-08-18T11:51:48.863Z",
+      "updatedAt": "2026-08-18T11:51:48.863Z"
     }
   ],
   "savings": [
@@ -4720,5 +4728,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:45:08.385Z"
+  "updatedAt": "2026-08-18T11:51:48.863Z"
 }
