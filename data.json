@@ -4232,6 +4232,15 @@
       "notes": "",
       "createdAt": "2026-08-18T11:14:36.039Z",
       "updatedAt": "2026-08-18T11:14:36.040Z"
+    },
+    {
+      "id": "cli_1h28nfb6n",
+      "name": "sylla",
+      "phone": "775636184",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-18T11:14:37.421Z",
+      "updatedAt": "2026-08-18T11:14:37.421Z"
     }
   ],
   "expenses": [
@@ -4510,5 +4519,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:14:36.040Z"
+  "updatedAt": "2026-08-18T11:14:37.421Z"
 }
