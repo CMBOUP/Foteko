@@ -3305,6 +3305,28 @@
       "pickupDate": "2026-08-15T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-08-18T11:16:02.182Z"
+    },
+    {
+      "id": "T0151",
+      "clientName": "gana ngor",
+      "clientPhone": "781094055",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 3.333,
+          "unit": "kg"
+        }
+      ],
+      "total": 1000,
+      "paid": 1000,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-08-18T11:18:20.753Z",
+      "pickupDate": "2026-08-15T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-08-18T11:18:20.753Z"
     }
   ],
   "clients": [
@@ -4572,5 +4594,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:17:53.873Z"
+  "updatedAt": "2026-08-18T11:18:20.753Z"
 }
