@@ -4192,6 +4192,15 @@
       "notes": "",
       "createdAt": "2026-08-18T11:09:54.038Z",
       "updatedAt": "2026-08-18T11:09:54.038Z"
+    },
+    {
+      "id": "cli_bnmuot0mp",
+      "name": "aboubakry",
+      "phone": "771308914",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-18T11:12:27.640Z",
+      "updatedAt": "2026-08-18T11:12:27.640Z"
     }
   ],
   "expenses": [
@@ -4470,5 +4479,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:10:16.879Z"
+  "updatedAt": "2026-08-18T11:12:27.640Z"
 }
