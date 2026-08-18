@@ -3408,13 +3408,13 @@
         }
       ],
       "total": 10100,
-      "paid": 0,
+      "paid": 10100,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "retiré",
       "createdAt": "2026-08-18T11:24:57.452Z",
       "pickupDate": "2026-08-17T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-08-18T11:24:57.452Z"
+      "updatedAt": "2026-08-18T11:58:40.665Z"
     },
     {
       "id": "T0156",
@@ -4728,5 +4728,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:51:48.863Z"
+  "updatedAt": "2026-08-18T11:58:40.665Z"
 }
