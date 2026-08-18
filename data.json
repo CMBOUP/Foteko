@@ -4620,6 +4620,14 @@
       "category": "Général",
       "date": "2026-08-18T11:51:48.863Z",
       "updatedAt": "2026-08-18T11:51:48.863Z"
+    },
+    {
+      "id": "exp_qzoomgqia",
+      "label": "Woyofal",
+      "amount": 2000,
+      "category": "Énergie",
+      "date": "2026-08-18T11:59:23.092Z",
+      "updatedAt": "2026-08-18T11:59:23.092Z"
     }
   ],
   "savings": [
@@ -4728,5 +4736,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:58:40.665Z"
+  "updatedAt": "2026-08-18T11:59:23.092Z"
 }
