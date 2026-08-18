@@ -4152,6 +4152,15 @@
       "notes": "",
       "createdAt": "2026-08-14T20:18:06.881Z",
       "updatedAt": "2026-08-14T20:18:06.882Z"
+    },
+    {
+      "id": "cli_p91tbfs3u",
+      "name": "mariama",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-18T11:09:51.925Z",
+      "updatedAt": "2026-08-18T11:09:51.925Z"
     }
   ],
   "expenses": [
@@ -4430,5 +4439,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:08:46.379Z"
+  "updatedAt": "2026-08-18T11:09:51.925Z"
 }
