@@ -4285,6 +4285,15 @@
       "notes": "",
       "createdAt": "2026-08-18T11:14:37.421Z",
       "updatedAt": "2026-08-18T11:14:37.421Z"
+    },
+    {
+      "id": "cli_cqp1zhefb",
+      "name": "gana ngor",
+      "phone": "781094055",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-08-18T11:17:53.873Z",
+      "updatedAt": "2026-08-18T11:17:53.873Z"
     }
   ],
   "expenses": [
@@ -4563,5 +4572,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-08-18T11:16:02.182Z"
+  "updatedAt": "2026-08-18T11:17:53.873Z"
 }
